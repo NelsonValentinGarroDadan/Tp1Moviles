@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tp1</string>
+    <string name="traducir">Traducir</string>
+    <string name="ingrese_una_palabra">Ingrese una palabra</string>
+    <string name="traductor_piola">Traductor Piola!</string>
+    <string name="espa_ol_ingles">Español - Ingles</string>
+    <string name="palabras_aceptadas_bicicleta_casa_auto_auriculares_zapatillas">Palabras Aceptadas: Bicicleta - Casa - Auto - Auriculares - Zapatillas</string>
+</resources>
